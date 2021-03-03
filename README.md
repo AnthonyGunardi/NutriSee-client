@@ -1,7 +1,7 @@
 # NutriSee-client
 A mobile application for healthy lifestyle. Using an enhanced AI technology, users can take picture of their dish to obtain the calories and nutrition facts. Furthermore, by taking picture of their refrigerator, NutriSee can recommend healthy recipes based on the available ingredients.
 #### Tech stacks: 
-react native, expo (client) & node.js, express, mongoose, mongoDB (server)
+React native, Expo, Clarifai API, Spoonacular API (client) & node.js, express, mongoose, mongoDB (server)
 
 
 ## URL

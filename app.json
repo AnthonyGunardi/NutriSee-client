@@ -3,6 +3,7 @@
     "name": "NutriSee",
     "slug": "NutriSee",
     "version": "1.0.0",
+    "description": "An AI-technology-based mobile application for healthy lifestyle",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
